@@ -4,10 +4,13 @@
 
 
 #
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CHAHLAOUI&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CHAHLAOUI&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
-<svg viewBox="0 0 450 275" width="450" height="275" xmlns="http://www.w3.org/2000/svg"><foreignObject width="100%" height="100%"><style>.slideUp{animation-duration:1s;animation-name:slideUp}.slideDown{animation-duration:1s;animation-name:slideDown}.flipInX{animation-duration:1s;animation-name:flipInX}@keyframes  slideUp{from{opacity:0;transform:translateY(20px)}25%{opacity:0}to{opacity:1;transform:translateY(0)}}@keyframes  slideDown{from{opacity:0;transform:translateY(-20px)}25%{opacity:0}to{opacity:1;transform:translateY(0)}}@keyframes  flipInX{from{transform:perspective(400px) rotate3d(1,0,0,90deg);animation-timing-function:ease-in;opacity:0}40%{transform:perspective(400px) rotate3d(1,0,0,-20deg);animation-timing-function:ease-in}60%{transform:perspective(400px) rotate3d(1,0,0,10deg);opacity:1}80%{transform:perspective(400px) rotate3d(1,0,0,-5deg)}to{transform:perspective(400px)}}</style><svg xmlns="http://www.w3.org/1999/xhtml">
-    
+
 ### 🛠️ Languages & Tools
 
 <div align="left">
