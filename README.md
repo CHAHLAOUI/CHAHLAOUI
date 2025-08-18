@@ -22,6 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
+  <img src="https://img.shields.io/badge/1337%20School-000000?style=for-the-badge&logo=42&logoColor=white" height="80" alt="1337 School" />
 
 </div>
 
