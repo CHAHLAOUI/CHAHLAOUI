@@ -1,43 +1,54 @@
-<h2 align="left"> 👋! My name is CHAHLAOUI ...
-  <img src="https://img.shields.io/badge/1337%20School-000000?style=for-the-badge&logo=42&logoColor=white" height="80" alt="1337 School" /></h2>
+![1337 Readme Logo](.github/images/1337-readme.svg)
 
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHAHLAOUI&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CHAHLAOUI&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Share your progress, skills, stats with the world via GitHub `README.md`
 
-###
+[![code style: prettier](https://img.shields.io/badge/code%20style-prettier-ff69b4)](https://github.com/prettier/prettier)
+[![code style: prettier](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg)](https://gitmoji.dev)
+[![license: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Vercel](https://badgen.net/badge/icon/vercel/black?icon=vercel&label)](https://vercel.com)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg)](#contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+---
 
-### 🛠️ Languages & Tools
+## Preview
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
+[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&login=azorkane)](https://github.com/mohouyizme/1337-readme)
 
-</div>
+[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?dark=true&login=toxiic)](https://github.com/mohouyizme/1337-readme)
 
-###
+## Usage
 
-### 📲 Contact Me
+1. Go to [1337-readme-xi.vercel.app](https://1337-readme-xi.vercel.app) and generat code snippet for your profile card.
+2. Create a repository that's the same name as your GitHub username. For example, my GitHub username is `mohouyizme` so I created a new repository with the name `mohouyizme`. The letter-casing must match your GitHub username.
+3. Create a `README.md` file inside the repository.
+4. Paste the code snippet into the `README.md` file.
+5. Enjoy 🎉!
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</div>
+## Contributors ✨
 
-###
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-🔗 [My GitHub Profile](https://github.com/CHAHLAOUI)
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://ouyiz.me"><img src="https://avatars1.githubusercontent.com/u/23297439?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mohamed Ouyizme</b></sub></a><br /><a href="https://github.com/mohouyizme/1337-readme/commits?author=mohouyizme" title="Code">💻</a> <a href="https://github.com/mohouyizme/1337-readme/issues?q=author%3Amohouyizme" title="Bug reports">🐛</a> <a href="#content-mohouyizme" title="Content">🖋</a> <a href="https://github.com/mohouyizme/1337-readme/commits?author=mohouyizme" title="Documentation">📖</a> <a href="#design-mohouyizme" title="Design">🎨</a> <a href="#ideas-mohouyizme" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-mohouyizme" title="Maintenance">🚧</a> <a href="#platform-mohouyizme" title="Packaging/porting to new platform">📦</a> <a href="https://github.com/mohouyizme/1337-readme/pulls?q=is%3Apr+reviewed-by%3Amohouyizme" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://stackoverflow.com/users/2595450/mehdi-bounya"><img src="https://avatars2.githubusercontent.com/u/5004111?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mehdi Bounya</b></sub></a><br /><a href="https://github.com/mohouyizme/1337-readme/commits?author=mehdibo" title="Code">💻</a> <a href="#ideas-mehdibo" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://reversablecode.github.io"><img src="https://avatars3.githubusercontent.com/u/56657108?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abdessamad El bahri</b></sub></a><br /><a href="https://github.com/mohouyizme/1337-readme/commits?author=ReversableCode" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/lpieri"><img src="https://avatars.githubusercontent.com/u/34377510?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Louise</b></sub></a><br /><a href="#maintenance-lpieri" title="Maintenance">🚧</a> <a href="#infra-lpieri" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    <td align="center"><a href="https://github.com/EniddeallA"><img src="https://avatars.githubusercontent.com/u/37194558?v=4?s=100" width="100px;" alt=""/><br /><sub><b>EniddeallA</b></sub></a><br /><a href="https://github.com/mohouyizme/1337-readme/commits?author=EniddeallA" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+---
+
+[CHANGELOG](CHANGELOG.md) - [LICENSE](LICENSE)
